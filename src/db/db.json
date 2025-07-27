@@ -40,5 +40,47 @@
     "phone": "(624) 588-0725",
     "email": "Adolph50@gmail.com",
     "job": "Customer Metrics Supervisor"
+  },
+  {
+    "id": "2737ab52-a8aa-4602-b4e3-84321ce7547c",
+    "name": "Julius Schultz",
+    "phone": "1-820-968-3415 x8849",
+    "email": "Madeline1@yahoo.com",
+    "job": "Forward Usability Assistant"
+  },
+  {
+    "id": "cd0b5ca9-bd28-4570-a63c-df6cae433fdc",
+    "name": "Rodney Jacobi",
+    "phone": "(495) 892-8403 x9428",
+    "email": "Merl1@yahoo.com",
+    "job": "Dynamic Functionality Engineer"
+  },
+  {
+    "id": "523dedc2-c45d-46dc-a4a8-aacb25b4ea9a",
+    "name": "Anne Walsh",
+    "phone": "(780) 955-1888 x6964",
+    "email": "Kenya66@yahoo.com",
+    "job": "Corporate Directives Engineer"
+  },
+  {
+    "id": "110a08da-e293-4f65-9c2c-59c5c4650250",
+    "name": "Roberta Casper",
+    "phone": "779.631.9533",
+    "email": "Kasandra68@gmail.com",
+    "job": "Human Response Assistant"
+  },
+  {
+    "id": "51ef082f-6104-48ce-90c9-a3e908b603e2",
+    "name": "Ms. Gwen Wyman",
+    "phone": "1-279-558-0842 x70807",
+    "email": "Selina_Ortiz56@hotmail.com",
+    "job": "Direct Response Supervisor"
+  },
+  {
+    "id": "9b233bfd-38aa-477d-86ed-2e9b8ef4eb0c",
+    "name": "Gene Howe MD",
+    "phone": "755.623.7381",
+    "email": "Cydney74@hotmail.com",
+    "job": "Internal Interactions Producer"
   }
 ]

@@ -6,6 +6,6 @@ export const writeContacts = async (updatedContacts) => {
     const data = JSON.stringify(updatedContacts, null, 2);
     await fs.writeFile(PATH_DB, data, 'utf-8');
   } catch (error) {
-    console.error('Dosyaya yazılırken hata oluştu:', error.message);
+    console.error('Something went wrong while writing contacts:', error.message);
   }
 };

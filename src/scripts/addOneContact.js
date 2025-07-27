@@ -7,9 +7,9 @@ export const addOneContact = async () => {
     const contacts = await readContacts();
     contacts.push(createFakeContact());
     await writeContacts(contacts);
-    console.log('Yeni iletişim eklendi.');
+    console.log('New contact added.');
   } catch (error) {
-    console.error('Yeni iletişim eklenirken hata oluştu:', error.message);
+    console.error('Something went wrong while adding one new contact to menu:', error.message);
   }
 };
 

@@ -11,9 +11,9 @@ const generateContacts = async (number) => {
     }
 
     await writeContacts(contacts);
-    console.log(`${number} tane yeni iletişim oluşturuldu.`);
+    console.log(`${number} new contact created.`);
   } catch (error) {
-    console.error('İletişim oluşturulurken hata oluştu:', error.message);
+    console.error('Something went wrong while generating contacts:', error.message);
   }
 };
 

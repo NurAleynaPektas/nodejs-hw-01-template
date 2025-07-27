@@ -5,7 +5,7 @@ export const getAllContacts = async () => {
     const contacts = await readContacts();
     return contacts;
   } catch (error) {
-    console.error('İletişimler okunurken hata oluştu:', error.message);
+    console.error('Something went wrong while getting all contacts:', error.message);
     return [];
   }
 };
